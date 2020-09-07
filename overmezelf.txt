@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<title>overmezelf</title>
+<body>
+<p>Mijn naam is Dirk Hoogland, ik ben 18 jaar oud.</p>
+<p>Mijn hobby is gamen, dit doe ik meestal de hele dag buiten school </p>
+<p>Ik heb deze opleiding gekozen omdat ik het leuk vind om met computers te werken en wilde leren hoe ik zelf software kon maken </p>
+</body>
+</html>
